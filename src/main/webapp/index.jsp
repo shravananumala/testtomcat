@@ -1,6 +1,6 @@
 <html>
 <body>
 <h1>Hello Devops... Its easy</h1>
-<h2>We are going to learn docker today... How you guys are doing?</h2>
+<h2>Time to learn docker and kubernates</h2>
 </body>
 </html>
